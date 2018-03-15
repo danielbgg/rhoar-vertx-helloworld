@@ -1,5 +1,5 @@
-# RHOAR Vertex Hello World
-Vertex Hello World Microservice - RHOAR course
+# RHOAR Vert.x Hello World
+Vert.x Hello World Microservice - RHOAR course
 
 ## Compile Application
 ```
